@@ -1,4 +1,4 @@
-![MasterHead](https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp)
+![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
 
 ### ¡Hola, soy Mariano! 👋
 Desarrollador Full Stack y Técnico en Informática, un apasionado del mundo de la programación. 
