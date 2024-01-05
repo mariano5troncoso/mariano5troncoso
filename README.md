@@ -1,8 +1,20 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
 
-### ¡Hola, soy Mariano! 👋
+🙋🏻‍♂️ ¡Hola, soy Mariano! 👋
 Desarrollador Full Stack y Técnico en Informática, un apasionado del mundo de la programación. 
-- 🌍 Vivo en Barranqueras, Chaco.
+
+Soy una persona proactiva, excelente compañero de equipo, organizado y responsable.
+Actualmente estoy en búsqueda de un nuevo desafío en el que pueda desarrollar mis habilidades con gran
+participación y seguir aprendiendo nuevas tecnologías para poder aplicarlas en cada proyecto que me proponga.
+
+- 🌍 Vivo en Resistencia, Chaco. (Actualmente)
+
+- 👨🏻‍💻 Asesor Telefonico - Atento S.A ( Agosto 2017 - Actualemente ) Part Time
+  Asesor técnico y comercial para Campañas como Telecentro y Movistar.
+  Identificación y solución en línea de problemas
+  comerciales, técnicos mediante sistema de gestión de
+  reclamos.
+
 
 ### Tengo experiencia en Tecnologias como: 
 
